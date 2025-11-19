@@ -1,0 +1,6 @@
+projectKey=com.example:docker
+serverUrl=http://localhost:9000
+serverVersion=2025.4.3.113915
+dashboardUrl=http://localhost:9000/dashboard?id=com.example%3Adocker
+ceTaskId=b2e4ef5d-116a-46c8-b169-ef3f20899123
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b2e4ef5d-116a-46c8-b169-ef3f20899123

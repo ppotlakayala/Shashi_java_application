@@ -1,0 +1,97 @@
+
+wcom.example.docker.controller.DockerController#addCustomer(Ljava/lang/String;)Lorg/springframework/http/ResponseEntity;i
+_/root/docker_java_application/src/main/java/com/example/docker/controller/DockerController.java (*"startingBlock*ì
+2
+ («
+¨
+
+ (:-
+%3'org.springframework.http.ResponseEntity"gorg.springframework.http.ResponseEntity#ok(Ljava/lang/Object;)Lorg/springframework/http/ResponseEntity;*G
+
+__unknown_file (+")
+'org.springframework.http.ResponseEntity*;
+
+__unknown_file (
+customer successfully addedr
+p
+ (;
+%4"__return_xss_sink*K
+
+__unknown_file (/
+-
+%3'org.springframework.http.ResponseEntity";
+ (;/
+-
+%3'org.springframework.http.ResponseEntity*Ü
+3 (Q
+O
+ (
+%0java.io.PrintStream"__id*"
+
+__unknown_file (
+""õò
+ (J
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%0java.io.PrintStream*R
+
+__unknown_file (64
+2In CustomerController class and addCustomer method2println(Ljava/lang/String;)z
+x
+ (
+%2boolean"	__compare*
+ (
+!=**
+ (
+
+customerjava.lang.String*
+ (
+""*
+2
+1*¯
+startingBlock* (H°
+­
++ (7
+%7"
+__annotate*S
+
+__unknown_file (75
+3org.springframework.web.bind.annotation.RequestBody*:
+
+__unknown_file (
+
+customerjava.lang.String\
+Z
+? (G
+customerjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%7*
+3*ç
+1	 (¦
+£
+	 (4-
+%5'org.springframework.http.ResponseEntity"gorg.springframework.http.ResponseEntity#ok(Ljava/lang/Object;)Lorg/springframework/http/ResponseEntity;*G
+
+__unknown_file (+")
+'org.springframework.http.ResponseEntity*6
+
+__unknown_file (
+unable to add customerr
+p
+ (5
+%6"__return_xss_sink*K
+
+__unknown_file (/
+-
+%5'org.springframework.http.ResponseEntity";
+ (5/
+-
+%5'org.springframework.http.ResponseEntity:(
++ (G
+customerjava.lang.StringB20
+.com.example.docker.controller.DockerControllerH
